@@ -1,0 +1,4 @@
+TOKEN = ''
+SAMPLE_SPREADSHEET_ID = "11eoPNb83pbA6Wgw9U96u6FpkyepuGDJm4Wqc1eRQOUc"
+SHEET_NAME = 'test_sheet'
+
